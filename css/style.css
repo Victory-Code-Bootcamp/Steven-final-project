@@ -9,7 +9,8 @@ img{
 }
 
 Header {
-  background-color: #282c34;
+  width: 100%;
+  background-color: #000000;
   flex-direction: row;
   text-align: center;
   justify-content: center;
@@ -33,7 +34,8 @@ p {
 }
 
 footer {
-   width: 100%;
+  float:left;
+  width: 100%;
   text-align: center;
   padding-top: 40%;
 }
@@ -47,6 +49,10 @@ footer img {
 nav li {
   display: inline;
 } 
+.photos{
+  width: 100%;
+
+}
 .fa-regular{
   height: 2%;
   width: auto;
@@ -92,6 +98,9 @@ nav li {
   float: left;
   width: 30%;
 }
+.map{
+  float: right;
+}
 
 
 .gwendolyn-regular {
@@ -113,4 +122,8 @@ nav li {
   font-optical-sizing: auto;
   font-weight: 600;
   font-style: normal;
+}
+#logo{
+  float:right;
+  display: inline;
 }
