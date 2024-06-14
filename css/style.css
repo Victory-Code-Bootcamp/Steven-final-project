@@ -93,9 +93,13 @@ nav li {
 }
 .column{
   float: left;
-  width: 30%;
+  width: 25vw;
  padding: 10px;
-  height: 25%;
+  height: auto;
+}
+.column:after{
+  content:"";
+  clear: both;
 }
 .row:after{
   content: "";
