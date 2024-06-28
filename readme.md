@@ -12,9 +12,10 @@
 
 ## Development
 
-            To run the website locally, clone this repository and open the "home.html" file in your web browser.
+            To run the website locally, clone this repository and open the "home.html" file in your web browser
 
 ## Technologies Used
+
 
             - HTML
             - CSS
