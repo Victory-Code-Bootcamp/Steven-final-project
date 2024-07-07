@@ -16,7 +16,6 @@
 
 ## Technologies Used
 
-
             - HTML
             - CSS
 
