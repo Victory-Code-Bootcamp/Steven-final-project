@@ -2,7 +2,8 @@
 
 ## Description
 
-            This is a static HTML website that shows my portfolio. It includes a homepage, about page, and contact page.
+            This is a static HTML website that shows my portfolio. It includes a homepage, about page, and contact page.This is the 
+            start of my portfolio.
 
 ## Deployment
 
@@ -15,7 +16,6 @@
             To run the website locally, clone this repository and open the "home.html" file in your web browser
 
 ## Technologies Used
-
 
             - HTML
             - CSS
